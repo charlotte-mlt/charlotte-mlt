@@ -50,7 +50,7 @@
 }
 
 a:link {
-	font-size: 28px;
+	font-size: 24px;
 	font-family: 'Roboto', sans-serif;
 	color: #3B3C3F;
 	text-decoration: none;
@@ -68,7 +68,7 @@ a:link {
 .post-text {
 	font-size: 15px;
 	padding-left: 20px;
-	color: #768CA4;
+	color: black;
 	font-family: 'Roboto', sans-serif;
 
 }
@@ -2240,9 +2240,8 @@ button,
 	display: inline-block;
 	font-size: .8em;
 	font-weight: 700;
-	height: 3.5em;
-	line-height: 3.65em;
-	padding: 0 2.25em;
+
+	padding: 0 1em;
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
