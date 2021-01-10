@@ -3,9 +3,10 @@
 
 
 
-.margin{
+.margin {
 	margin: 20px;
 }
+
 /*
 	Introspect by TEMPLATED
 	templated.co @templatedco
@@ -4111,7 +4112,7 @@ body.is-loading #banner:after {
 }
 
 #three .inner article {
-	width: 44%;
+	width: 30%;
 	display: block;
 }
 
