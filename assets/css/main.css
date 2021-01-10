@@ -1,6 +1,11 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Pacifico");
 
+
+
+.margin{
+	margin: 20px;
+}
 /*
 	Introspect by TEMPLATED
 	templated.co @templatedco
@@ -4109,6 +4114,8 @@ body.is-loading #banner:after {
 	width: 44%;
 	display: block;
 }
+
+
 
 #three .inner article p {
 	color: #717171;
