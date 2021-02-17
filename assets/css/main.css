@@ -1,27 +1,46 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Pacifico");
 
-.exboite {
-	background-color: rgb(160, 94, 94);
-	padding: 2em 0;
-}
-
 
 
 .margin {
 	margin: 20px;
 }
 
-.bg-1{
-background-color: #e4e4e4;
-padding: 4em 0 2em 0;
-margin-bottom: 50px;
+.bg-1 {
+	background-color: #e4e4e4;
+	padding: 4em 0 2em 0;
+	margin-bottom: 50px;
 }
-.bg-0{
-background-color: #fff;
-padding: 4em 0 2em 0;
-margin-bottom: 50px;
+
+.bg-0 {
+	background-color: #fff;
+	padding: 4em 0 2em 0;
+	margin-bottom: 50px;
 }
+
+.travailleravecmoi {
+	background-color: rgb(231, 188, 188);
+	padding: 4em 0 2em 0;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.travailleravecmoi1 {
+	background-color: rgb(224, 215, 89);
+	padding: 4em 0 2em 0;
+	margin-bottom: 50px;
+}
+
+
+
+#paragraphes p {}
+
+p {
+	text-align: justify;
+}
+
 /*
 	Introspect by TEMPLATED
 	templated.co @templatedco
@@ -3525,7 +3544,7 @@ body {
 }
 
 #header {
-	background: #f7a934;
+	background: #5e5b5b;
 	color: #d5d5d5;
 	cursor: default;
 	height: 5em;
@@ -3564,7 +3583,7 @@ body {
 	padding: 0;
 	position: absolute;
 	top: 0;
-	color: black;
+	color: rgb(255, 255, 255);
 	font-size: 1.75em;
 	text-transform: none;
 	font-weight: normal;
@@ -3792,7 +3811,7 @@ body {
 	color: #f2a3a5;
 	padding: 13em 0 11em 0;
 	background-color: #0c0c0c;
-	background-image: url("../../images/fd2.jpg");
+	background-image: url("../../images/pdg1.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 15% left;
@@ -3822,7 +3841,7 @@ body {
 #banner h4,
 #banner h5,
 #banner h6 {
-	color: #fff;
+	color: #e06c4c;
 }
 
 #banner blockquote {
@@ -3907,10 +3926,6 @@ body {
 }
 
 #banner:after {
-	-moz-transition: opacity 4s ease;
-	-webkit-transition: opacity 4s ease;
-	-ms-transition: opacity 4s ease;
-	transition: opacity 4s ease;
 	content: '';
 	position: absolute;
 	width: 100%;
@@ -3918,8 +3933,6 @@ body {
 	display: block;
 	top: 0;
 	left: 0;
-	background-color: #0c0c0c;
-	opacity: 0.25;
 }
 
 #banner .inner {
@@ -3942,7 +3955,7 @@ body {
 
 #banner h1 {
 	font-size: 2em;
-	margin: 0 0 1em 0;
+	margin: 211px 0 1em 0;
 	padding: 0;
 	letter-spacing: 3px;
 	font-weight: 700;
