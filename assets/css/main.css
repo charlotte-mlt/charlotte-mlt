@@ -3544,7 +3544,7 @@ body {
 }
 
 #header {
-	background: #9a9c9a;
+	background: #dc861f;
 	color: #d5d5d5;
 	cursor: default;
 	height: 5em;
@@ -3841,7 +3841,7 @@ body {
 #banner h4,
 #banner h5,
 #banner h6 {
-	color: #ffffff;
+	color: #dccfb8;
 }
 
 #banner blockquote {
