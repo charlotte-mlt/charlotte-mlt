@@ -27,11 +27,7 @@
 	margin-right: 50px;
 }
 
-.travailleravecmoi1 {
-	background-color: rgb(224, 215, 89);
-	padding: 4em 0 2em 0;
-	margin-bottom: 50px;
-}
+
 
 
 
@@ -2218,6 +2214,7 @@ h3,
 h4,
 h5,
 h6 {
+	text-align: center;
 	color: #080808;
 }
 
@@ -3544,7 +3541,7 @@ body {
 }
 
 #header {
-	background: #dc861f;
+	background: #e0a863;
 	color: #d5d5d5;
 	cursor: default;
 	height: 5em;
@@ -3808,13 +3805,13 @@ body {
 
 #banner {
 	background-color: #f7f7f7;
-	color: #d4d0d0;
+	color: #000000;
 	padding: 13em 0 11em 0;
 	background-color: #0c0c0c;
-	background-image: url("../../images/pic1.jpg");
+	background-image: url("../../images/pdps.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 15% left;
+	background-position: center;
 	text-align: center;
 	position: relative;
 	z-index: 9999;
@@ -3841,7 +3838,7 @@ body {
 #banner h4,
 #banner h5,
 #banner h6 {
-	color: #dccfb8;
+	color: #000000;
 }
 
 #banner blockquote {
